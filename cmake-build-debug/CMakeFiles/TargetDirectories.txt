@@ -1,0 +1,9 @@
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/CMakeFiles/zte.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/zte-main/CMakeFiles/edit_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/zte-main/CMakeFiles/rebuild_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/zte-main/CMakeFiles/zte-main.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/tao/Data/Software/project/c_lang/zte/cmake-build-debug/test/CMakeFiles/test.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/zte-main.dir/create_demo_file.cpp.o -o zte-main 

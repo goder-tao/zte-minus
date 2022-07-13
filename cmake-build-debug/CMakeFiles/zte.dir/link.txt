@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/zte.dir/head-file/hash.cpp.o CMakeFiles/zte.dir/main9.cpp.o -o zte 

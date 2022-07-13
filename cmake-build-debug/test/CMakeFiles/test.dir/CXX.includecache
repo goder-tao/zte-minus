@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tao/Data/Software/project/c_lang/zte/test/test.cpp
+stdio.h
+/home/tao/Data/Software/project/c_lang/zte/test/stdio.h
+string.h
+/home/tao/Data/Software/project/c_lang/zte/test/string.h
+stdlib.h
+/home/tao/Data/Software/project/c_lang/zte/test/stdlib.h
+time.h
+/home/tao/Data/Software/project/c_lang/zte/test/time.h
+time.h
+/home/tao/Data/Software/project/c_lang/zte/test/time.h
+

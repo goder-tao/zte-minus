@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tao/Data/Software/project/c_lang/zte/zte-main/create_demo_file.cpp
+stdio.h
+/home/tao/Data/Software/project/c_lang/zte/zte-main/stdio.h
+string.h
+/home/tao/Data/Software/project/c_lang/zte/zte-main/string.h
+stdlib.h
+/home/tao/Data/Software/project/c_lang/zte/zte-main/stdlib.h
+random
+/home/tao/Data/Software/project/c_lang/zte/zte-main/random
+
